@@ -1,0 +1,8 @@
+{
+  "name": "SoalGen AI",
+  "description": "Aplikasi AI pintar untuk guru menghasilkan soal ujian berkualitas secara otomatis berdasarkan Kurikulum Merdeka, lengkap dengan tingkat kesulitan, taksonomi Bloom, dan pembahasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
